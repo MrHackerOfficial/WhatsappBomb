@@ -1,10 +1,10 @@
 # SpamWa
 ```
-$ pkg install python
+$ pkg install python python2
 $ pkg install git
 $ pkg install php openssh curl
 $ python3 -m pip install requests
 $ git clone https://github.com/MrHackerOfficial/WhatsappBomb
-$ cd SpamWa-1
+$ cd WhatsappBomb
 $ python3 spam.py
 ```
